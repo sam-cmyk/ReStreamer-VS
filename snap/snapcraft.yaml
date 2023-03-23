@@ -1,4 +1,4 @@
-name: rtsp-to-webrtsp
+name: rtsp-to-webrtsp-VS
 base: core22
 summary: Media URLs ReStreamer (over WebRTC)
 adopt-info: restreamer
@@ -7,7 +7,7 @@ description: |
 
   To try, install snap and open http://localhost:5080 in your browser.
 
-  **Config file location:** /var/snap/rtsp-to-webrtsp/common/restreamer.conf
+  **Config file location:** /var/snap/rtsp-to-webrtsp-VS/common/restreamer.conf
 
   **Online demo:** http://ipcam.stream:5080
 license: GPL-3.0
